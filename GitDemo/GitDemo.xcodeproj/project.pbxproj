@@ -15,6 +15,7 @@
 		4A666F7124B3300500695B51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A666F6F24B3300500695B51 /* LaunchScreen.storyboard */; };
 		4A666F7C24B3300500695B51 /* GitDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A666F7B24B3300500695B51 /* GitDemoTests.swift */; };
 		4A666F8724B3300600695B51 /* GitDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A666F8624B3300600695B51 /* GitDemoUITests.swift */; };
+		4A666F9524B3352A00695B51 /* TestController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A666F9424B3352A00695B51 /* TestController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4A666F8224B3300500695B51 /* GitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A666F8624B3300600695B51 /* GitDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitDemoUITests.swift; sourceTree = "<group>"; };
 		4A666F8824B3300600695B51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A666F9424B3352A00695B51 /* TestController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				4A666F6D24B3300500695B51 /* Assets.xcassets */,
 				4A666F6F24B3300500695B51 /* LaunchScreen.storyboard */,
 				4A666F7224B3300500695B51 /* Info.plist */,
+				4A666F9424B3352A00695B51 /* TestController.swift */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				4A666F6924B3300300695B51 /* ViewController.swift in Sources */,
 				4A666F6524B3300300695B51 /* AppDelegate.swift in Sources */,
 				4A666F6724B3300300695B51 /* SceneDelegate.swift in Sources */,
+				4A666F9524B3352A00695B51 /* TestController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
