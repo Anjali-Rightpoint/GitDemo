@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         print("The colors are nice")
         self.view.backgroundColor = UIColor.blue
         print("Conflict should come here")
+        self.view.backgroundColor = UIColor.green
+        print("The colors are nice")
         // Do any additional setup after loading the view.
     }
 
