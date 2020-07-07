@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4A61FFFD24B47302008CCEE7 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A61FFFC24B47302008CCEE7 /* SecondView.swift */; };
+		4A61FFFD24B47302008CCEE7 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A61FFFC24B47302008CCEE7 /* ThirdView.swift */; };
 		4A666F6524B3300300695B51 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A666F6424B3300300695B51 /* AppDelegate.swift */; };
 		4A666F6724B3300300695B51 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A666F6624B3300300695B51 /* SceneDelegate.swift */; };
 		4A666F6924B3300300695B51 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A666F6824B3300300695B51 /* ViewController.swift */; };
@@ -36,7 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4A61FFFC24B47302008CCEE7 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		4A61FFFC24B47302008CCEE7 /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
 		4A666F6124B3300300695B51 /* GitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A666F6424B3300300695B51 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4A666F6624B3300300695B51 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -108,7 +108,7 @@
 				4A666F6D24B3300500695B51 /* Assets.xcassets */,
 				4A666F6F24B3300500695B51 /* LaunchScreen.storyboard */,
 				4A666F7224B3300500695B51 /* Info.plist */,
-				4A61FFFC24B47302008CCEE7 /* SecondView.swift */,
+				4A61FFFC24B47302008CCEE7 /* ThirdView.swift */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -263,7 +263,7 @@
 			files = (
 				4A666F6924B3300300695B51 /* ViewController.swift in Sources */,
 				4A666F6524B3300300695B51 /* AppDelegate.swift in Sources */,
-				4A61FFFD24B47302008CCEE7 /* SecondView.swift in Sources */,
+				4A61FFFD24B47302008CCEE7 /* ThirdView.swift in Sources */,
 				4A666F6724B3300300695B51 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
